@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analytics
+# Enterprise Business Intelligence Suite for a Multi-Region Company
 
 An end-to-end Power BI solution for a bicycle and accessories retailer: MySQL source database, star-schema model, 19 DAX measures, executive and detail report pages, and row-level security by region.
 
