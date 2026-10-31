@@ -1,0 +1,8 @@
+# Raw data contains personal information, never commit it
+*.csv
+data/*
+!data/README.md
+# Power BI and system files
+*.pbix.bak
+.DS_Store
+Thumbs.db
